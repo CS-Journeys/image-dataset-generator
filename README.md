@@ -20,6 +20,6 @@ Generate a dataset of chessboard images that will be used to train an image reco
 Note: currently, the only tester is ```tester_board_scrambler.py```
 
 ## Examples
-Chessboard in starting position and sample scrambled position respectively.
+Chessboard in starting position and example scrambled position respectively.
 
 <img src=res/sample-board-starting-position.png width=360 height=360>    <img src=res/sample-board-scrambled.png width=360 height=360>
