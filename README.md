@@ -22,5 +22,4 @@ Note: currently, the only tester is ```tester_board_scrambler.py```
 ## Examples
 Chessboard in starting position and scrambled position respectively.
 
-<img src=res/sample-board-starting-position.png width=360 height=360>
-<img src=res/sample-board-scrambled.png width=360 height=360>
+<img src=res/sample-board-starting-position.png width=360 height=360>    <img src=res/sample-board-scrambled.png width=360 height=360>
