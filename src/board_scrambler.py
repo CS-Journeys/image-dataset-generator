@@ -35,6 +35,8 @@ def scramble_board(board_image):
         5. Set the remaining locations to empty tiles (use the numpy images from steps 1 and 2)
             WARNING: again, the checkered pattern must be conserved
         6. Return the scrambled chessboard image
+    Example:
+        See res/sample-board-scrambled.png
     """
 
     # TODO: scramble the chessboard
