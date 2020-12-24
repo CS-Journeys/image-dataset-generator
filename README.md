@@ -11,7 +11,8 @@ Generate a dataset of chessboard images that will be used to train an image reco
 ```.gitignore``` <-- git stuff that you can ignore. Shocker
 
 ## Usage
-1. Install the required libraries
+1. Install Python 3
+2. Install the required libraries
 
 ```pip install -r requirements.txt```
 
