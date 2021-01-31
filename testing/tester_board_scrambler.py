@@ -16,7 +16,7 @@ board_start_image = cv2.imread('../res/sample-board-starting-position.png', 0)
 
 # Display the starting position image to the screen
 # Press any key to continue
-cv2.imshow('starting position', skimage.transform.rescale(board_start_image, DISPLAY_SCALE, anti_aliasing=True))
+cv2.imshow('original', skimage.transform.rescale(board_start_image, DISPLAY_SCALE, anti_aliasing=True))
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
